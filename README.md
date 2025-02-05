@@ -10,6 +10,12 @@
   -  📞 signal: @everoddandeven.01
 
 - ⚡ Fun fact: never odd or even is palindrome.
+
+## Donate XMR
+```
+87DSWSHxBUrZpCbgvGdtJ2L1Px3M9BPdNMqWcZHDKhqUQj37r9jgGRGDMN4GUoMqkofFQXZ1i6LbZBHdaRUdMHKYGbqCo62
+```
+
 <!--
 **everoddandeven/everoddandeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
