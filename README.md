@@ -10,7 +10,7 @@
   - [monerod-gui](https://github.com/everoddandeven/monerod-gui), a Monero Node Manager for Windows, Linux and MacOS.
   - [monero-ecwid](https://github.com/everoddandeven/monero-ecwid), a Monero Payment Gateway for ECWID Stores.
 
-- 🔭 I’m currently working on a [monero light wallet client library](https://github.com/woodser/monero-cpp/pull/73) which I believe could significantly improve the user experience of monero wallets. This would enable the development of wallet applications with instant sync time, addressing one of the major UX challenges of monero. To achieve this, I am actively contributing to the [monero-cpp](https://github.com/woodser/monero-cpp) project, which serves as the foundation for this library.
+- 🔭 I’m currently working on the [`monero_wallet_light.h`](https://github.com/woodser/monero-cpp/pull/73), a new [`monero_wallet.h`](https://github.com/woodser/monero-cpp-library/blob/master/src/wallet/monero_wallet.h) implementation which shares the view key with a 3rd party or self-hosted [light wallet server](https://github.com/vtnerd/monero-lws) in order to scan the blockchain for incoming transfers. I believe it could significantly improve the user experience of monero wallets and would enable the development of wallet applications with instant sync time, addressing one of the major UX challenges of monero. To achieve this, I am actively contributing to the [monero-cpp](https://github.com/woodser/monero-cpp) project.
 
 - 👯 I’m looking to collaborate on any monero project!
 
