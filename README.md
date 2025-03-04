@@ -3,7 +3,7 @@
 - 🌱 I am currently studying Computer Engineering at the University of Pisa, I work as a GIS software developer for an important company of the [Almawave Group](https://www.almawave.com/), and of course I am learning monero!
 
 - 📌 I have contributed to
-  - [haveno-ts](https://github.com/haveno-dex/haveno-ts/commits?author=everoddandeven), a TypeScript library for using Haveno.
+  - [haveno-ts](https://github.com/haveno-dex/haveno-ts), a TypeScript library for using Haveno.
   - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero
 
 - :bowtie: Lead mantainer of
