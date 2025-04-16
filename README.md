@@ -7,6 +7,7 @@
   - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero
 
 - :bowtie: Lead mantainer of
+  - [monero-python](https://github.com/everoddandeven/monero-python), a Python library for using Monero.
   - [monerod-gui](https://github.com/everoddandeven/monerod-gui), a Monero Node Manager for Windows, Linux and MacOS.
   - [monero-ecwid](https://github.com/everoddandeven/monero-ecwid), a Monero Payment Gateway for ECWID Stores.
 
