@@ -4,7 +4,8 @@
 
 - 📌 I have contributed to
   - [haveno-ts](https://github.com/haveno-dex/haveno-ts), a TypeScript library for using Haveno.
-  - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero
+  - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero.
+  - [monero-lws](https://github.com/vtnerd/monero-lws), an open source implementation of the [Monero Light Wallet Server REST API](https://github.com/monero-project/meta/blob/master/api/lightwallet_rest.md).
 
 - :bowtie: Lead mantainer of
   - [monero-python](https://github.com/everoddandeven/monero-python), a Python library for using Monero.
