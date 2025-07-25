@@ -4,15 +4,19 @@
 
 - 📌 I have contributed to
   - [haveno-ts](https://github.com/haveno-dex/haveno-ts), a TypeScript library for using Haveno.
+  - [monero-cpp](https://github.com/woodser/monero-cpp), a C++ library for using Monero.
   - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero.
   - [monero-lws](https://github.com/vtnerd/monero-lws), an open source implementation of the [Monero Light Wallet Server REST API](https://github.com/monero-project/meta/blob/master/api/lightwallet_rest.md).
+  - [Monero RCT Report](https://github.com/UkoeHB/Monero-RCT-report), Italian translation of Zero to Monero.
 
 - :bowtie: Lead mantainer of
   - [monero-python](https://github.com/everoddandeven/monero-python), a Python library for using Monero.
   - [monerod-gui](https://github.com/everoddandeven/monerod-gui), a Monero Node Manager for Windows, Linux and MacOS.
   - [monero-ecwid](https://github.com/everoddandeven/monero-ecwid), a Monero Payment Gateway for ECWID Stores.
 
-- 🔭 I’m currently working on the [`monero_wallet_light.h`](https://github.com/woodser/monero-cpp/pull/73), a new [`monero_wallet.h`](https://github.com/woodser/monero-cpp-library/blob/master/src/wallet/monero_wallet.h) implementation which shares the view key with a 3rd party or self-hosted [light wallet server](https://github.com/vtnerd/monero-lws) in order to scan the blockchain for incoming transfers. I believe it could significantly improve the user experience of monero wallets and would enable the development of wallet applications with instant sync time, addressing one of the major UX challenges of monero. To achieve this, I am actively contributing to the [monero-cpp](https://github.com/woodser/monero-cpp) project.
+- 🔭 I’m currently working on
+  - The [`monero_wallet_light.h`](https://github.com/woodser/monero-cpp/pull/73), a new [`monero_wallet.h`](https://github.com/woodser/monero-cpp-library/blob/master/src/wallet/monero_wallet.h) implementation which shares the view key with a 3rd party or self-hosted [light wallet server](https://github.com/vtnerd/monero-lws) in order to scan the blockchain for incoming transfers. I believe it could significantly improve the user experience of monero wallets and would enable the development of wallet applications with instant sync time, addressing one of the major UX challenges of monero. To achieve this, I am actively contributing to the [monero-cpp](https://github.com/woodser/monero-cpp) project.
+  - [monero-dotnet](https://github.com/everoddandeven/monero-dotnet), a .NET library for using Monero. This project aims to provide the same functionality offered by [monero-cpp](https://github.com/woodser/monero-cpp) through the use of C# bindings by building a C API that allows native code management via [P/Invoke](https://learn.microsoft.com/en/dotnet/standard/native-interop/pinvoke). This could enable the creation of applications in .NET enterprise environments like Windows, facilitating the development of server services and client programs using a simple yet powerful API. Furthermore, in the future, it could leverage a potential [light wallet client](https://github.com/woodser/monero-cpp/pull/73).
 
 - 👯 I’m looking to collaborate on any monero project!
 
