@@ -3,6 +3,7 @@
 - 🌱 I am currently studying Computer Engineering at the University of Pisa, I work as a GIS software developer for an important company of the [Almawave Group](https://www.almawave.com/), and of course I am learning monero!
 
 - 📌 I have contributed to
+  - [QGIS](https://github.com/qgis/QGIS), I gave some advice on how to optimize the [loading of view-based postgres layers](https://github.com/qgis/QGIS/pull/57389).
   - [haveno-ts](https://github.com/haveno-dex/haveno-ts), a TypeScript library for using Haveno.
   - [monero-cpp](https://github.com/woodser/monero-cpp), a C++ library for using Monero.
   - [monero-java](https://github.com/woodser/monero-java), a Java library for using Monero.
